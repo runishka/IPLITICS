@@ -1,5 +1,5 @@
 # IPLitics - Cricket Analytics Platform
-- ** By Runishka Rao
+- ** By Runishka Rao**
 
 ## Overview
 IPLitics is a comprehensive and user-friendly platform designed for cricket enthusiasts to compare players, analyze overall statistics, and perform ball-by-ball analysis. The platform leverages machine learning and data analytics to provide insights into player performance and match predictions.
